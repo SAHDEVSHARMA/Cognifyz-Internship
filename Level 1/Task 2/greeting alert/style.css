@@ -1,0 +1,20 @@
+body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+     background: linear-gradient(120deg, #f8fafc 0%, #e0e7ff 100%);
+}
+
+
+#greetButton {
+  background-color: #e9ad09;
+  border: 3px solid;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}

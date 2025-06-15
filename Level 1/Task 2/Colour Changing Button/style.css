@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(120deg, #f8fafc 0%, #e0e7ff 100%);
+}
+
+h2 {
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+#colorButton {
+    padding: 15px 30px;
+    background-color: #3498db;
+    color: rgb(12, 4, 80);
+    border: 2px solid #3498db;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+}
